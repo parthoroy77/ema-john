@@ -1,0 +1,35 @@
+.cart{
+     padding: 30px 20px;
+     position: sticky;
+     top: 0%;
+     background-color: rgba(255, 153, 0, 0.3);
+}
+.order-title{
+     margin-left: 30px;
+     font-family: 'Lato';
+     font-style: normal;
+     font-weight: 400;
+     font-size: 25px;
+     line-height: 30px;
+     color: #1C2B35;
+}
+.price-calculation{
+     margin: 50px 0;
+}
+.cart p{
+     margin: 25px 0;
+     font-weight: 500;
+     font-size: 17px;
+     line-height: 20px;
+     letter-spacing: 0.005em;
+     color: #2A414F;
+}
+.grand-total{
+     font-family: 'Lato';
+     font-style: normal;
+     font-weight: 400;
+     font-size: 21px;
+     line-height: 25px;
+     letter-spacing: 0.0015em;
+     color: #0E161A;
+}

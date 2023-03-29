@@ -64,6 +64,6 @@
     transition: 0.2s ease-out;
 }
 .btn-cart:hover{
-    background-color: darkorange;
+    background-color: orange;
     color: white;
 }

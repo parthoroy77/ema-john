@@ -6,6 +6,22 @@
 .products-container{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 40px;
+    gap: 30px;
     padding: 50px;
+}
+
+.cart-container{
+
+}
+
+.cart-container  h5{
+    margin: 30px;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+    color: #1C2B35;
+}
+.cart-container p{
+    margin: 20px;
+    font-size: 20px;
 }

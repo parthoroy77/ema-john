@@ -33,3 +33,18 @@
      letter-spacing: 0.0015em;
      color: #0E161A;
 }
+.btn-clear-cart{
+     width: 90%;
+     height: 56px;
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+     padding: 10px 20px;
+     border-radius: 8px;
+     border: none;
+     background: #ff3030;
+     color: white;
+     font-size: 21px;
+     cursor: pointer;
+     margin-top: 20px;
+}

@@ -11,3 +11,22 @@
 }
 
 
+.btn-proceed{
+    width: 90%;
+    height: 56px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    border-radius: 8px;
+    border: none;
+    background: #ff9000;
+    color: white;
+    font-size: 21px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+.proceed-link{
+    text-decoration: none;
+}
